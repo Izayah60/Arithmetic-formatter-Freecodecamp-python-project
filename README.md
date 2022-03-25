@@ -1,6 +1,3 @@
-# Solutions-to-the-python-course-freecodecamp-projects.
-In freecodecamp, after successive completion of the python course, you'll be given 5 projects to try your hands in. Here ae the solutions.
-
 #######PROJECT 1: ARITHMETIC FORMATTER#######
 
 ### Assignment
